@@ -7,7 +7,7 @@ Web Developer, App Developer & Graphics Designer
 I'm Kennedy Malama, a Software Engineer with expertise in PHP, React, and Flutter. I'm passionate about web development and always learning to create innovative solutions. Let's connect!
 
 * 🌍  I'm based in Ndola, Zambia
-* 🖥️  See my portfolio at [MyPortfolio](http://https://kenmalama.my.canva.site/)
+* 🖥️  See my portfolio at [MyPortfolio](https://kenmalama.my.canva.site/)
 * ✉️  You can contact me at [engmalama10@gmail.com](mailto:engmalama10@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
